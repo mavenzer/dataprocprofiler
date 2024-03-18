@@ -5,7 +5,7 @@ setup(
     name='dataprocprofiler',
     version='0.1.0',
     author='Your Name',
-    author_email='your.email@example.com',
+    author_email='testing_email@example.com',
     packages=find_packages(),
     description='A Python package for profiling and visualizing data processing performance.',
     long_description=open('README.md').read(),
